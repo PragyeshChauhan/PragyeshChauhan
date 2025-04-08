@@ -6,8 +6,8 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently working at [Field Equip](https://www.fieldequip.com/)
-- 🎓 B.Tech in Computer Science
+- 🔭 Currently working on [Field Equip](https://www.fieldequip.com/)
+- 🎓 B.Tech From [AKGEC](https://www.akgec.ac.in/)
 - 🧱 Focused on backend development, architecture & scalable systems
 - 🧪 Building great products with clean and efficient code
 - ☕ Fueled by coffee & curiosity
@@ -56,7 +56,7 @@
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragyesh-singh-chauhan) &nbsp;&nbsp;&nbsp; [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/pragyesh_chauhan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragyesh-chauhan01/) &nbsp;&nbsp;&nbsp; [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/pragyesh_chauhan/)
 
 
 
@@ -64,7 +64,7 @@
 
 ### 📈 GitHub Stats
 
-![Pragyesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pragyeshchauhan&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pragyeshchauhan&show_icons=true&theme=tokyonight&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pragyeshchauhan&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pragyeshchauhan&layout=compact&theme=tokyonight)
 
