@@ -1,17 +1,18 @@
-## 👋 Hi there, I'm Pragyesh Singh Chauhan
+## 👋 Hi there, I'm [Pragyesh Singh Chauhan](https://iampragyesh.netlify.app/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300FF7F&lines=Software+Engineer;Full+Stack+Java+Developer;Currently+Working+Tech+like;Spring+Boot+%7C+React+%7C+MongoDB+%7C+AWS;Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23CCFF00&lines=Software+Engineer;Full+Stack+Java+Developer;Currently+Working+Tech+like;Spring+Boot+%7C+React+%7C+MongoDB+%7C+AWS;Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
 
 ---
 
 ### 🧠 About Me
 
+- 🌐 Reach me at: [Pragyesh Chauhan Portfolio](https://iampragyesh.netlify.app/)
 - 🔭 Currently working on [Field Equip](https://www.fieldequip.com/)
 - 🎓 B.Tech From [AKGEC](https://www.akgec.ac.in/)
 - 🧱 Focused on backend development, architecture & scalable systems
 - 🧪 Building great products with clean and efficient code
 - ☕ Fueled by coffee & curiosity
-- 📫 Reach me at: **pragyeshchauhan26@gmail.com**
+- 📫 Email: **pragyeshchauhan26@gmail.com**
 - 📄 [Resume](https://docs.google.com/document/d/1YFAvQWRH8kqSCOeW4jktfd7GVKAsSDgqufKgb-L_eXs/edit?usp=sharing)
 
 ---
