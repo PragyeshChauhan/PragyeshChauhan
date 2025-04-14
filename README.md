@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm [Pragyesh Singh Chauhan](https://iampragyesh.netlify.app/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23CCFF00&lines=Software+Engineer;Full+Stack+Java+Developer;Currently+Working+Tech+like;Spring+Boot+%7C+React+%7C+MongoDB+%7C+AWS;Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Software+Engineer;Full+Stack+Java+Developer;Currently+Working+Tech+like;Spring+Boot+%7C+React+%7C+MongoDB+%7C+AWS;Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
 
 
 
