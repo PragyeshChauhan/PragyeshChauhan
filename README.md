@@ -2,18 +2,32 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23CCFF00&lines=Software+Engineer;Full+Stack+Java+Developer;Currently+Working+Tech+like;Spring+Boot+%7C+React+%7C+MongoDB+%7C+AWS;Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
 
+
+
+
 ---
 
-### 🧠 About Me
+## 🧠 About Me
+
+<table>
+  <tr>
+    <td>
 
 - 🌐 Reach me at: [Pragyesh Chauhan Portfolio](https://iampragyesh.netlify.app/)
-- 🔭 Currently working on [Field Equip](https://www.fieldequip.com/)
+- 🔭 Currently working on [Field Equip](https://www.fieldequip.com/) at [Bursys](https://www.bursys.com/)
 - 🎓 B.Tech From [AKGEC](https://www.akgec.ac.in/)
 - 🧱 Focused on backend development, architecture & scalable systems
 - 🧪 Building great products with clean and efficient code
 - ☕ Fueled by coffee & curiosity
 - 📫 Email: **pragyeshchauhan26@gmail.com**
-- 📄 [Resume](https://docs.google.com/document/d/1YFAvQWRH8kqSCOeW4jktfd7GVKAsSDgqufKgb-L_eXs/edit?usp=sharing)
+- 📄 **Resume**: [View here](https://docs.google.com/document/d/1YFAvQWRH8kqSCOeW4jktfd7GVKAsSDgqufKgb-L_eXs/edit?usp=sharing)
+
+</td>
+<td>
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="250" alt="Multiprogramming Environment" />
+</td>
+  </tr>
+</table>
 
 ---
 
